@@ -4,7 +4,7 @@ Hello~ My name is Jeongtae Kim! Welcome to my profile
 
 ### Skill
 
-#### Platfrom
+#### Platform
 
 - Android
 - Flutter

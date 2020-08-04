@@ -21,4 +21,5 @@ Hello~ My name is Jeongtae Kim! Welcome to my profile
 
 - Java
 - Kotlin
+- Dart
 - C++

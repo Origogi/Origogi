@@ -13,13 +13,11 @@ Hello~ My name is Jeongtae Kim! Welcome to my profile
 
 #### Platform
 
-- Android
-- Flutter
-- SIP/RCS
+- Android, Flutter, SIP/RCS
 
 #### Programing Language
 
-- Java
-- Kotlin
-- Dart
-- C++
+- Java, Kotlin, Dart, C++
+
+  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Origogi)](https://github.com/anuraghazra/github-readme-stats)
+

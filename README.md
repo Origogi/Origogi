@@ -15,7 +15,7 @@ Hello~ My name is Jeongtae Kim! Welcome to my profile
 
 #### Programing Language
 
-<img src="https://img.shields.io/badge/-Kotlin-0095D5.svg?logo=kotlin&style=plastic"> <img src="https://img.shields.io/badge/-Java-007396.svg?logo=java&style=plastic"> <img src="https://img.shields.io/badge/-Dart-00599C.svg?logo=dart&style=plastic"> <img src="https://img.shields.io/badge/-C++-00310C.svg?logo=cplusplus&style=plastic">
+<img src="https://img.shields.io/badge/-Kotlin-0095D5.svg?logo=kotlin&style=plastic"> <img src="https://img.shields.io/badge/-Java-007396.svg?logo=java&style=plastic"> <img src="https://img.shields.io/badge/-Dart-00599C.svg?logo=dart&style=plastic"> <img src="https://img.shields.io/badge/-C++-00310C.svg?logo=c%2B%2B&style=plastic">
 
 
 ### Stats

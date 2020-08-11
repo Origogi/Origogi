@@ -19,5 +19,8 @@ Hello~ My name is Jeongtae Kim! Welcome to my profile
 
 - Java, Kotlin, Dart, C++
 
-  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Origogi)](https://github.com/anuraghazra/github-readme-stats)
+### Stats
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Origogi)](https://github.com/anuraghazra/github-readme-stats)
+
 

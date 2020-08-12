@@ -18,6 +18,12 @@ Hello~ My name is Jeongtae Kim! Welcome to my profile
 <img src="https://img.shields.io/badge/-Kotlin-0095D5.svg?logo=kotlin&style=plastic"> <img src="https://img.shields.io/badge/-Java-007396.svg?logo=java&style=plastic"> <img src="https://img.shields.io/badge/-Dart-00599C.svg?logo=dart&style=plastic"> <img src="https://img.shields.io/badge/-C++-00310C.svg?logo=c%2B%2B&style=plastic">
 
 
+#### Tools
+
+<img src="https://img.shields.io/badge/-Visual Studio Code-007ACC.svg?logo=visual-studio-code&style=plastic"> <img src="https://img.shields.io/badge/-Android Studio-3DDC84.svg?logo=android-studio&style=plastic">
+
+
+
 ### Stats
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Origogi)](https://github.com/anuraghazra/github-readme-stats)

@@ -22,6 +22,10 @@ Hello~ My name is Jeongtae Kim! Welcome to my profile
 
 <img src="https://img.shields.io/badge/-Visual Studio Code-007ACC.svg?logo=visual-studio-code&style=plastic"> <img src="https://img.shields.io/badge/-Android Studio-3DDC84.svg?logo=android-studio&style=plastic">
 
+### Training
+
+<img src="https://img.shields.io/badge/-Swift-0095D5.svg?logo=swift&style=plastic"> <img src="https://img.shields.io/badge/-iOS-0095D5.svg?logo=ios&style=plastic"> <img src="https://img.shields.io/badge/-Machine Learning-0095D5.svg?logo=machinelearning&style=plastic"> <img src="https://img.shields.io/badge/-Python-0095D5.svg?logo=python&style=plastic">
+
 
 
 ### Stats

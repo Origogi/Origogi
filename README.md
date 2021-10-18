@@ -24,8 +24,7 @@ Hello~ My name is Jeongtae Kim!
 
 ### Training
 
-<img src="https://img.shields.io/badge/-Swift-0095D5.svg?logo=swift&style=plastic"> <img src="https://img.shields.io/badge/-iOS-0095D5.svg?logo=ios&style=plastic"> <img src="https://img.shields.io/badge/-Machine Learning-0095D5.svg?logo=machinelearning&style=plastic"> <img src="https://img.shields.io/badge/-Python-0095D5.svg?logo=python&style=plastic">
-
+<img src="https://img.shields.io/badge/React-0095D5.svg?logo=react&style=plastic">
 ### Stats
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Origogi&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)

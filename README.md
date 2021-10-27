@@ -24,7 +24,8 @@ Hello~ My name is Jeongtae Kim!
 
 ### Training
 
-<img src="https://img.shields.io/badge/React-0095D5.svg?logo=react&style=plastic">
+<img src="https://img.shields.io/badge/React-0095D5.svg?logo=react&style=plastic"> <img src="https://img.shields.io/badge/JavaScript-0095D5.svg?logo=javascript&style=plastic">
+
 
 ### Stats
 

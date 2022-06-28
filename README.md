@@ -7,6 +7,11 @@ Hello~ My name is Jeongtae Kim!
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-4172B8.svg?logo=facebook&style=plastic&link=https://www.facebook.com/profile.php?id=100002180550466)](https://www.facebook.com/profile.php?id=100002180550466) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836.svg?logo=gmail&style=plastic&link=mailto:rlawjdxo88@gmail.com)](mailto:rlawjdxo88@gmail.com)
 
+### Resume & Portfolio
+
+[Link](https://origogi.github.io/FE-Portfolio/)
+
+
 ### Skill
 
 #### Platform
@@ -25,7 +30,6 @@ Hello~ My name is Jeongtae Kim!
 ### Training
 
 <img src="https://img.shields.io/badge/React-0095D5.svg?logo=react&style=plastic"> <img src="https://img.shields.io/badge/JavaScript-0095D5.svg?logo=javascript&style=plastic"> <img src="https://img.shields.io/badge/-Android Compose-A4C639.svg?logo=android&style=plastic"> <img src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&style=plastic"> <img src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&style=plastic">
-
 
 ### Stats
 

@@ -18,7 +18,7 @@ My name is Jeongtae Kim!
 
 #### FrontEnd
 
-<img src="https://img.shields.io/badge/-Android-343422.svg?logo=android&style=for-the-badge"> <img src="https://img.shields.io/badge/-Flutter-343422.svg?logo=flutter&style=for-the-badge"> <img src="https://img.shields.io/badge/React-343422.svg?logo=react&style=for-the-badge"> <img src="https://img.shields.io/badge/JavaScript-343422.svg?logo=javascript&style=for-the-badge"> <img src="https://img.shields.io/badge/-Android Compose-343422.svg?logo=android&style=for-the-badge"> <img src="https://img.shields.io/badge/CSS-343422.svg?logo=css3&style=for-the-badge"> <img src="https://img.shields.io/badge/HTML-343422.svg?logo=html5&style=for-the-badge">
+<img src="https://img.shields.io/badge/-Android-343422.svg?logo=android&style=for-the-badge"> <img src="https://img.shields.io/badge/-Flutter-343422.svg?logo=flutter&style=for-the-badge"> <img src="https://img.shields.io/badge/React-343422.svg?logo=react&style=for-the-badge"> <img src="https://img.shields.io/badge/JavaScript-343422.svg?logo=javascript&style=for-the-badge"> <img src="https://img.shields.io/badge/-Android Compose-343422.svg?logo=jetpackcompose&style=for-the-badge"> <img src="https://img.shields.io/badge/CSS-343422.svg?logo=css3&style=for-the-badge"> <img src="https://img.shields.io/badge/HTML-343422.svg?logo=html5&style=for-the-badge">
 
 #### BackEnd/Cloud
 

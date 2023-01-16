@@ -5,9 +5,9 @@ Hello~
 
 My name is Jeongtae Kim!
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0077B5.svg?logo=linkedin&style=plastic&link=https://www.linkedin.com/in/%EC%A0%95%ED%83%9C-%EA%B9%80-679975155/)](https://www.linkedin.com/in/%EC%A0%95%ED%83%9C-%EA%B9%80-679975155/) 
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-4172B8.svg?logo=facebook&style=plastic&link=https://www.facebook.com/profile.php?id=100002180550466)](https://www.facebook.com/profile.php?id=100002180550466) 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836.svg?logo=gmail&style=plastic&link=mailto:rlawjdxo88@gmail.com)](mailto:rlawjdxo88@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-343422.svg?logo=linkedin&style=for-the-badge&link=https://www.linkedin.com/in/%EC%A0%95%ED%83%9C-%EA%B9%80-679975155/)](https://www.linkedin.com/in/%EC%A0%95%ED%83%9C-%EA%B9%80-679975155/) 
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-343422.svg?logo=facebook&style=for-the-badge&link=https://www.facebook.com/profile.php?id=100002180550466)](https://www.facebook.com/profile.php?id=100002180550466) 
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-343422.svg?logo=gmail&style=for-the-badge&link=mailto:rlawjdxo88@gmail.com)](mailto:rlawjdxo88@gmail.com)
 
 ### Resume & Portfolio
 
@@ -16,22 +16,24 @@ My name is Jeongtae Kim!
 
 ### Skill
 
-#### Platform
+#### FrontEnd
 
-<img src="https://img.shields.io/badge/-Android-A4C639.svg?logo=android&style=plastic"> <img src="https://img.shields.io/badge/-Flutter-02569B.svg?logo=flutter&style=plastic"> <img src="https://img.shields.io/badge/-Git-F05032.svg?logo=git&style=plastic"> <img src="https://img.shields.io/badge/-Firebase-FFCA28.svg?logo=firebase&style=plastic"> <img src="https://img.shields.io/badge/-Google Cloud Platform-4285F4.svg?logo=googlecloud&style=plastic">
+<img src="https://img.shields.io/badge/-Android-343422.svg?logo=android&style=for-the-badge"> <img src="https://img.shields.io/badge/-Flutter-343422.svg?logo=flutter&style=for-the-badge"> <img src="https://img.shields.io/badge/React-343422.svg?logo=react&style=for-the-badge"> <img src="https://img.shields.io/badge/JavaScript-343422.svg?logo=javascript&style=for-the-badge"> <img src="https://img.shields.io/badge/-Android Compose-343422.svg?logo=android&style=for-the-badge"> <img src="https://img.shields.io/badge/CSS-343422.svg?logo=css3&style=for-the-badge"> <img src="https://img.shields.io/badge/HTML-343422.svg?logo=html5&style=for-the-badge">
+
+#### BackEnd/Cloud
+
+ <img src="https://img.shields.io/badge/-Firebase-343422.svg?logo=firebase&style=for-the-badge"> <img src="https://img.shields.io/badge/-GCP-343422.svg?logo=googlecloud&style=for-the-badge">
 
 #### Programing Language
 
-<img src="https://img.shields.io/badge/-Kotlin-0095D5.svg?logo=kotlin&style=plastic"> <img src="https://img.shields.io/badge/-Java-007396.svg?logo=java&style=plastic"> <img src="https://img.shields.io/badge/-Dart-00599C.svg?logo=dart&style=plastic"> <img src="https://img.shields.io/badge/-C++-00310C.svg?logo=c%2B%2B&style=plastic">
+<img src="https://img.shields.io/badge/-Kotlin-343422.svg?logo=kotlin&style=for-the-badge"> <img src="https://img.shields.io/badge/-Java-343422.svg?logo=java&style=for-the-badge"> <img src="https://img.shields.io/badge/-Dart-343422.svg?logo=dart&style=for-the-badge"> <img src="https://img.shields.io/badge/-C++-343422.svg?logo=c%2B%2B&style=for-the-badge">
 
 
 #### Tools
 
-<img src="https://img.shields.io/badge/-Visual Studio Code-007ACC.svg?logo=visual-studio-code&style=plastic"> <img src="https://img.shields.io/badge/-Android Studio-3DDC84.svg?logo=android-studio&style=plastic">
+<img src="https://img.shields.io/badge/-Visual Studio Code-343422.svg?logo=visual-studio-code&style=for-the-badge"> <img src="https://img.shields.io/badge/-Android Studio-343422.svg?logo=android-studio&style=for-the-badge">
 
-### Training
 
-<img src="https://img.shields.io/badge/React-0095D5.svg?logo=react&style=plastic"> <img src="https://img.shields.io/badge/JavaScript-0095D5.svg?logo=javascript&style=plastic"> <img src="https://img.shields.io/badge/-Android Compose-A4C639.svg?logo=android&style=plastic"> <img src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&style=plastic"> <img src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&style=plastic">
 
 ### Stats
 

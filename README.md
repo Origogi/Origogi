@@ -22,7 +22,7 @@ My name is Jeongtae Kim!
 
 #### BackEnd/Cloud
 
- <img src="https://img.shields.io/badge/-Firebase-343422.svg?logo=firebase&style=for-the-badge"> <img src="https://img.shields.io/badge/-GCP-343422.svg?logo=googlecloud&style=for-the-badge">
+ <img src="https://img.shields.io/badge/-Firebase-343422.svg?logo=firebase&style=for-the-badge"> <img src="https://img.shields.io/badge/-GCP-343422.svg?logo=googlecloud&style=for-the-badge"> <img src="https://img.shields.io/badge/-AWS Amplify-343422.svg?logo=awsamplify&style=for-the-badge">
 
 #### Programing Language
 

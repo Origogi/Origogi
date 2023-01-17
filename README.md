@@ -36,7 +36,7 @@ My name is Jeongtae Kim!
 ### Certificate
 
 <a href="https://www.credential.net/c82e7bc3-8fd7-4f24-b456-137ec7fa339d?key=8895a20951b2ed83ea5fa80ff72fd381630e2bf068e2181e592a4c78e550228a">
-<img src="https://user-images.githubusercontent.com/35194820/212816850-a109a702-7d24-45fd-8753-2676a3c3d487.png" width="100">
+<img src="https://user-images.githubusercontent.com/35194820/212816850-a109a702-7d24-45fd-8753-2676a3c3d487.png" alt="GCP Associate Cloud Engineer" width="100">
 </a>
 
 ### Stats

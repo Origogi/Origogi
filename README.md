@@ -18,7 +18,7 @@ My name is Jeongtae Kim!
 
 #### FrontEnd
 
-<img src="https://img.shields.io/badge/-Android-343422.svg?logo=android&style=for-the-badge"> <img src="https://img.shields.io/badge/-Flutter-343422.svg?logo=flutter&style=for-the-badge"> <img src="https://img.shields.io/badge/React-343422.svg?logo=react&style=for-the-badge"> <img src="https://img.shields.io/badge/JavaScript-343422.svg?logo=javascript&style=for-the-badge"> <img src="https://img.shields.io/badge/-Android Compose-343422.svg?logo=jetpackcompose&style=for-the-badge"> <img src="https://img.shields.io/badge/CSS-343422.svg?logo=css3&style=for-the-badge"> <img src="https://img.shields.io/badge/HTML-343422.svg?logo=html5&style=for-the-badge">
+<img src="https://img.shields.io/badge/-Android-343422.svg?logo=android&style=for-the-badge"> <img src="https://img.shields.io/badge/-Flutter-343422.svg?logo=flutter&style=for-the-badge"> <img src="https://img.shields.io/badge/React-343422.svg?logo=react&style=for-the-badge"> <img src="https://img.shields.io/badge/-Android Compose-343422.svg?logo=jetpackcompose&style=for-the-badge"> <img src="https://img.shields.io/badge/CSS-343422.svg?logo=css3&style=for-the-badge"> <img src="https://img.shields.io/badge/HTML-343422.svg?logo=html5&style=for-the-badge">
 
 #### BackEnd/Cloud
 
@@ -26,8 +26,7 @@ My name is Jeongtae Kim!
 
 #### Programing Language
 
-
-<img src="https://img.shields.io/badge/-Kotlin-343422.svg?logo=kotlin&style=for-the-badge"> <img src="https://img.shields.io/badge/-Java-343422.svg?logo=java&style=for-the-badge"> <img src="https://img.shields.io/badge/-Dart-343422.svg?logo=dart&style=for-the-badge"> <img src="https://img.shields.io/badge/-C++-343422.svg?logo=c%2B%2B&style=for-the-badge">
+<img src="https://img.shields.io/badge/-Kotlin-343422.svg?logo=kotlin&style=for-the-badge"> <img src="https://img.shields.io/badge/-Java-343422.svg?logo=java&style=for-the-badge"> <img src="https://img.shields.io/badge/-Dart-343422.svg?logo=dart&style=for-the-badge"> <img src="https://img.shields.io/badge/-C++-343422.svg?logo=c%2B%2B&style=for-the-badge"> <img src="https://img.shields.io/badge/JavaScript-343422.svg?logo=javascript&style=for-the-badge">
 
 #### Tools
 

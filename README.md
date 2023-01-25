@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Origogi's%20Github&fontSize=90&animation=fadeIn&fontAlignY=38)
-
+![giphy](https://user-images.githubusercontent.com/35194820/214567480-0b55f08b-d909-41fa-af63-0dcb6f1bd443.gif)
 
 Hello~ 
 

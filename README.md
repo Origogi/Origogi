@@ -37,6 +37,10 @@ My name is Jeongtae Kim!
 
 <img src="https://img.shields.io/badge/-Visual Studio Code-343422.svg?logo=visual-studio-code&style=for-the-badge"> <img src="https://img.shields.io/badge/-Android Studio-343422.svg?logo=android-studio&style=for-the-badge">
 
+#### CI/CD
+
+<img src="https://img.shields.io/badge/-Fastlane-343422.svg?logo=Fastlane&style=for-the-badge"> <img src="https://img.shields.io/badge/-Github Actions-343422.svg?logo=gitHub-actions&style=for-the-badge">
+
 ### Certificate
 
 <a href="https://www.credential.net/c82e7bc3-8fd7-4f24-b456-137ec7fa339d?key=8895a20951b2ed83ea5fa80ff72fd381630e2bf068e2181e592a4c78e550228a">

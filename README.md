@@ -31,7 +31,7 @@ My name is Jeongtae Kim!
 
 #### Programing Language
 
-<img src="https://img.shields.io/badge/-Kotlin-343422.svg?logo=kotlin&style=for-the-badge"> <img src="https://img.shields.io/badge/-Java-343422.svg?logo=java&style=for-the-badge"> <img src="https://img.shields.io/badge/-Dart-343422.svg?logo=dart&style=for-the-badge"> <img src="https://img.shields.io/badge/-C++-343422.svg?logo=c%2B%2B&style=for-the-badge"> <img src="https://img.shields.io/badge/JavaScript-343422.svg?logo=javascript&style=for-the-badge">
+<img src="https://img.shields.io/badge/-Kotlin-343422.svg?logo=kotlin&style=for-the-badge"> <img src="https://img.shields.io/badge/-Java-343422.svg?logo=java&style=for-the-badge"> <img src="https://img.shields.io/badge/-Dart-343422.svg?logo=dart&style=for-the-badge"> <img src="https://img.shields.io/badge/-C++-343422.svg?logo=c%2B%2B&style=for-the-badge"> <img src="https://img.shields.io/badge/JavaScript-343422.svg?logo=javascript&style=for-the-badge"> <img src="https://img.shields.io/badge/TypeScript-343422.svg?logo=typescript&style=for-the-badge">
 
 #### Tools
 

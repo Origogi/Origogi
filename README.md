@@ -14,11 +14,6 @@ My name is Jeongtae Kim!
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-343422.svg?logo=facebook&style=for-the-badge&link=https://www.facebook.com/profile.php?id=100002180550466)](https://www.facebook.com/profile.php?id=100002180550466) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-343422.svg?logo=gmail&style=for-the-badge&link=mailto:rlawjdxo88@gmail.com)](mailto:rlawjdxo88@gmail.com)
 
-### Resume & Portfolio
-
-[Link](https://origogi.github.io/FE-Portfolio/)
-
-
 ### Skill
 
 #### FrontEnd

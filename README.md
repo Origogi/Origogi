@@ -11,7 +11,6 @@ Hello~
 My name is Jeongtae Kim!
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-343422.svg?logo=linkedin&style=for-the-badge&link=https://www.linkedin.com/in/%EC%A0%95%ED%83%9C-%EA%B9%80-679975155/)](https://www.linkedin.com/in/%EC%A0%95%ED%83%9C-%EA%B9%80-679975155/) 
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-343422.svg?logo=facebook&style=for-the-badge&link=https://www.facebook.com/profile.php?id=100002180550466)](https://www.facebook.com/profile.php?id=100002180550466) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-343422.svg?logo=gmail&style=for-the-badge&link=mailto:rlawjdxo88@gmail.com)](mailto:rlawjdxo88@gmail.com)
 
 ### Skill
